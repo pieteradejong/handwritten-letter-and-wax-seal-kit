@@ -132,3 +132,12 @@ For mailed correspondence, the safest option is to make the wax impression separ
 ## Current overall status
 
 The distinctive components are already covered: pen, ink, two stamps, and ample burgundy wax. The remaining purchases are primarily functional supplies—paper, envelopes, a converter if needed, and wax-melting equipment.
+
+## License
+
+Copyright (c) 2026 Pieter de Jong
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). You are free
+to share and adapt it, including commercially, provided you give appropriate
+credit. See `LICENSE` for the full text.
